@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Typoglycemia</string>
+    <string-array name="weekday">
+        <item>にちようび</item>
+        <item>げつようび</item>
+        <item>かようび</item>
+        <item>すいようび</item>
+    </string-array>
+</resources>
